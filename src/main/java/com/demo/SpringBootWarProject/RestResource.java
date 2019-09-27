@@ -10,6 +10,6 @@ public class RestResource {
 
 	@GetMapping("/msg")
 	public String getMessage(){
-		return "Welcome Dhananjaya!!!";
+		return "Welcome Hello World!!!";
 	}
 }
